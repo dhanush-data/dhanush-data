@@ -8,6 +8,6 @@
 - 🤵 Wanna know more, let's connect on [my LinkedIn in profile](https://www.linkedin.com/in/dhanush-g-a13b59200)
 ---
 
-> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=53F7EF&center=false&multiline=true&width=1000&height=115&lines=A+thorough+and+meticulous+person+passionate+about+helping+in+business+growth.;+Former+small+business+owner.;Proficient+in+Python%2C+SQL%2C+Microsoft+Excel%2C+Tableau%2C+and+Microsoft+PowerBI.;+Possessing+strong+technical+skills+rooted+in+substantial+training+as+an+engineer.++" alt="Typing SVG" /></a>
+> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=53F7EF&center=false&multiline=true&width=1000&height=115&lines=A+thorough+and+meticulous+person+passionate+about+helping+in+business+growth.;Proficient+in+Python%2C+SQL%2C+Microsoft+Excel%2C+Tableau%2C+and+Microsoft+PowerBI.;+Possessing+strong+technical+skills+rooted+in+substantial+training+as+an+engineer.++" alt="Typing SVG" /></a>
 
 ---
